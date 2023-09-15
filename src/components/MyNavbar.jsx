@@ -83,12 +83,14 @@ const MyNavbar = () => {
     <div className="row">
         <div className="col-md-5">
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci perferendis aspernatur quos laudantium voluptates recusandae quas perspiciatis sit placeat. Voluptates nam itaque mollitia! Iusto exercitationem molestiae ut blanditiis voluptatum deserunt.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci perferendis aspernatur quos laudantium voluptates recusandae quas perspiciatis sit placeat. Voluptates nam itaque mollitia! Iusto exercitationem molestiae ut blanditiis voluptatum deserunt.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci perferendis aspernatur quos laudantium voluptates recusandae quas perspiciatis sit placeat. Voluptates nam itaque mollitia! Iusto exercitationem molestiae ut blanditiis voluptatum deserunt.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci perferendis aspernatur quos laudantium voluptates recusandae quas perspiciatis sit placeat. Voluptates nam itaque mollitia! Iusto exercitationem molestiae ut blanditiis voluptatum deserunt.
         </div>
         <div className='col-md-2'>
             <img src={Svgwithpaths} className="svg-container" style={{ width: '100px', height: '100px', fill: 'blue' }} alt="" />
         </div>
         <div className="col-md-5">
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi sunt rerum autem beatae temporibus, fugit ut quidem aut ex commodi nulla quos. Ea assumenda provident deleniti tempora sed quibusdam dolore?
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi sunt rerum autem beatae temporibus, fugit ut quidem aut e x commodi nulla quos. Ea assumenda provident deleniti tempora sed quibusdam dolore?
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi sunt rerum autem beatae temporibus, fugit ut quidem aut e   x commodi nulla quos. Ea assumenda provident deleniti tempora sed quibusdam dolore?
         </div>
     </div>
 </div>
