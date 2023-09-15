@@ -1,0 +1,1 @@
+export {default as  Svgwithpaths} from "./Svgwithpaths.svg"
