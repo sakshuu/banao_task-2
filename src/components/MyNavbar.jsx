@@ -73,7 +73,8 @@
 
 import React from 'react';
 import './../assets/css/navbar.css'; // Import a custom CSS file for styling
-import { Svgwithpaths } from '../../public';
+import { Svgwithpaths } from './../../public';
+// import { Svgwithpaths } from '../../public';
 
 
 
