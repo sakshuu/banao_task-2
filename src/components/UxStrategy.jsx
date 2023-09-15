@@ -1,9 +1,9 @@
 import React from 'react'
 
 const UxStrategy = () => {
-  return (
-    <div>UxStrategy</div>
-  )
+  return<>
+  
+  </>
 }
 
 export default UxStrategy

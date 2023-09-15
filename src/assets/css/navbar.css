@@ -1,5 +1,47 @@
-.svg-container {
-    width: 100px;
-    height: 100px;
-    fill: blue;
+/* Center the entire component vertically and horizontally */
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
+  
+  /* Style the grids */
+  .grid {
+    border: 2px solid #007bff;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    background-color: #f8f9fa; /* Grid background color */
+  }
+  
+  /* Style the circle container */
+  .circle {
+    width: 200px; /* Adjust the circle size as needed */
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* Circle background color */
+    border: 2px solid #007bff;
+    border-radius: 50%; /* Make it a circle */
+    margin: 10px;
+  }
+  
+  /* Style the navigation links */
+  .nav-link {
+    text-decoration: none;
+    color: #007bff; /* Link color */
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Link color on hover */
+  }
+  
+  /* Add additional custom styles as needed */
+  

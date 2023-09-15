@@ -6,11 +6,13 @@ import About from './pages/About'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Home from './pages/Home'
 import "./assets/css/index.css"
+import FixedSvg from './components/FixedSvg'
 
 const App = () => {
   return <>
    <BrowserRouter>
-   <MyNavbar/>
+   {/* <MyNavbar/> */}
+   <FixedSvg/>
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/ux' element={<UxStrategy/>} />
